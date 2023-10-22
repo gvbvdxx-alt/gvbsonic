@@ -1,0 +1,76 @@
+[
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Ring",
+			"path":"res/items/ring.png"
+		}
+	},
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Level exit",
+			"path":"res/items/goals/signpost-empty.png"
+		}
+	},
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Ring Monitor",
+			"path":"res/items/monitor/monitor.png"
+		}
+	},
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Eggman Monitor",
+			"path":"res/items/monitor/monitor.png"
+		}
+	},
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Switch layer to 1",
+			"path":null
+		}
+	},
+	
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Switch layer to 2",
+			"path":null
+		}
+	},
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Spring",
+			"path":"res/items/spring/red.png"
+		}
+	},
+	{
+		"addingMethod":"single",
+		"tile": {
+			"id":"Motobug",
+			"path":"res/enimies/motobug.png"
+		}
+	},
+	
+	
+	
+	
+	{
+		"addingMethod":"multiple",
+		"pathStart":"res/tiles/TemplateZone/templatezone_",
+		"pathEnd":".png",
+		"idPrefix":"Template zone tile ",
+		"amount":70,
+		"startNum":0
+	}
+]

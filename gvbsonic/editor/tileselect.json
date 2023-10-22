@@ -1,0 +1,63 @@
+{
+	"tileSelectButtons":[
+		{
+			"headertext":true,
+			"text":"Template Zone"
+		},
+		{
+			"id":"Template zone tile ",
+			"islength":true,
+			"length":70,
+			"startingNumber":0
+		},
+		
+		
+		{
+			"headertext":true,
+			"text":"Objects"
+		},
+		
+		{
+			"id":"Ring",
+			"usedefault":false,
+			"src":"editor/selections/ring.png",
+			"defaulttile":true
+		},
+		
+		{
+			"id":"Level exit",
+			"usedefault":true
+		},
+		
+		{
+			"id":"Eggman Monitor",
+			"usedefault":false,
+			"src":"editor/selections/eggmanMonitor.png"
+		},
+		
+		{
+			"id":"Ring Monitor",
+			"usedefault":false,
+			"src":"editor/selections/ringMonitor.png"
+		},
+		{
+			"id":"Switch layer to 1",
+			"usedefault":false,
+			"src":"editor/s1.png"
+		},
+		{
+			"id":"Switch layer to 2",
+			"usedefault":false,
+			"src":"editor/s2.png"
+		},
+		{
+			"id":"Spring",
+			"usedefault":false,
+			"src":"editor/selections/spring.png"
+		},
+		{
+			"id":"Motobug",
+			"usedefault":true
+		}
+	]
+}
